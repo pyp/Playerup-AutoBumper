@@ -4,7 +4,6 @@
 
   <p align="center">
     Autobumps your Playerup thread ever x amount of seconds to increase attraction. 
-    (This was originally made for a client, but then he started complaining it wasn't working and released the code on a forums, enjoy :D)
     <br/>
     <br/>
   </p>
