@@ -3,7 +3,7 @@
   <h2 align="center">Playerup Auto-bumper</h3>
 
   <p align="center">
-    Autobumps your Playerup thread ever x amount of seconds to increase attraction. 
+    Autobumps your Playerup thread every x amount of seconds to increase attraction. 
     <br/>
     <br/>
   </p>
