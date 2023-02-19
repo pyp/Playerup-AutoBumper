@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/pyp/Playerup-AutoBumper">
-    <img src="https://i.imgur.com/z2eW25E.png" alt="Logo">
+    <img src="https://i.imgur.com/rfVd2Vk.png" alt="Logo">
 </a>
   
 </div>
